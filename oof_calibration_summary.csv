@@ -1,0 +1,2 @@
+threshold_raw_oof,threshold_calibrated_oof,mcc_calibrated_oof,pr_auc_raw_oof,roc_auc_raw_oof,pr_auc_calibrated_oof,roc_auc_calibrated_oof,n_train_rows_used,n_folds
+0.6600000000000001,0.53,0.5528063251342158,0.8463871916894711,0.8520859022940366,0.8422200993255038,0.85231424439089,179998,3

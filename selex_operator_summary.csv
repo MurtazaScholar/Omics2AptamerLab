@@ -1,0 +1,17 @@
+round,operator,count
+1,exploit_crossover,156
+1,exploit_mutation,312
+1,explore_mutation,39
+1,random_injection,36
+2,exploit_crossover,140
+2,exploit_mutation,280
+2,explore_mutation,35
+2,random_injection,36
+3,exploit_crossover,144
+3,exploit_mutation,288
+3,explore_mutation,36
+3,random_injection,36
+4,exploit_crossover,130
+4,exploit_mutation,260
+4,explore_mutation,32
+4,random_injection,36

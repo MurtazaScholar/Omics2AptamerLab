@@ -1,0 +1,2 @@
+threshold,accuracy,balanced_accuracy,roc_auc,pr_auc,mcc,f1,precision,recall,n_train_rows,n_holdout_rows,n_holdout_pdb,best_params,holdout_pred_std_mean,holdout_pred_std_median
+0.53,0.8033314650702494,0.7924056025705054,0.8887119095549132,0.874053473127498,0.6090369766771463,0.7565973560310306,0.8642892141850922,0.6727692060143385,179998,369327,26,"{""depth"": 7, ""learning_rate"": 0.05, ""l2_leaf_reg"": 8, ""iterations"": 500}",0.06221376358114751,0.04419503645775044
